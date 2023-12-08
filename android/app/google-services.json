@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977209493574",
+    "project_id": "mymapp-1556031423958",
+    "storage_bucket": "mymapp-1556031423958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977209493574:android:feb19fd06b477743c26247",
+        "android_client_info": {
+          "package_name": "com.example.syg_conducteur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Sa9t_3ZE1URPbcVEYJBNsBgUXZSr_FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
